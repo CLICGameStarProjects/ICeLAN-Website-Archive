@@ -1626,20 +1626,3 @@ section {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# 404 Error Page
---------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans'); /*idk what this does*/
-:root {
-  --blue: #0e0620;
-  --white: #fff;
-  --green: #2ccf6d;
-}
-#container {
-  background-color: #000;
-  padding: 0 0 30px 0;
-  color: #fff;
-  font-size: 14px;
-  text-align: center;
-
-}
