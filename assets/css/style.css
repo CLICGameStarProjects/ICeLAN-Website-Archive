@@ -736,6 +736,26 @@ section {
   border-radius: 0;
 }
 
+.about .col-6 text-center {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 14px 32px;
+    border-radius: 4px;
+    transition: 0.5s;
+    line-height: 1;
+    color: #fff;
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    background: linear-gradient(110deg, #C150A8 49%, #46B6C4 51%);
+}
+
+.about .col-6 text-center:hover {
+  background: #C2CF45;
+}
+
 @-webkit-keyframes pulsate-btn {
   0% {
     transform: scale(0.6, 0.6);
@@ -1605,3 +1625,4 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
