@@ -765,6 +765,7 @@ section {
 --------------------------------------------------------------*/
 .counts {
   padding: 80px 0 60px 0;
+  background: #000;
 }
 
 .counts .counters span {
@@ -780,6 +781,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 500;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -1446,7 +1448,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #2e3339;
+  background: #000;
 }
 
 #footer .footer-newsletter h4 {
@@ -1492,7 +1494,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #272c30;
+  background: #fff;
   border-top: 1px solid #394047;
   border-bottom: 1px solid #394047;
   padding: 60px 0 30px 0;
@@ -1515,7 +1517,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #000;
 }
 
 #footer .footer-top .social-links a {
